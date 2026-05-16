@@ -14,7 +14,7 @@ Bem-vindo ao meu repositório de estudos de Segurança Ofensiva. Aqui documento 
 ### 1. 🔍 [Reconhecimento (Nmap)](Nmap-Scans.md)
 Documentação de varredura de rede, detecção de serviços e scripts de vulnerabilidade.
 
-### 2. 💣 [Criação de Payloads (MSFVenom)](MSFVenom-Arsenal.md)
+### 2. 💣 [Criação de Payloads (MSFVenom)](MSFVenom-Payloads.md)
 Geração de executáveis maliciosos para diferentes arquiteturas (Windows/Linux/Android).
 
 ### 3. 🛡️ [Escalonamento de Privilégios](Escalonamento_de_Privilegios.md)
