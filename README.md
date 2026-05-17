@@ -25,5 +25,8 @@ Algumas formas de você espionar a vítima e limpar seus rastros antes que perce
 
 ### 5. 🌐 [Scannear a rede e automatizar exploits](Network-Pivot-Automation.md)
 Fazer varredura da rede da vitima e automatizar tarefas repetidas
+
+### 6. ⚠️ [Se manter sempre ativo na vítima](Persistencia-de-Acesso.md)
+Pra fechar com chave de ouro tive a oportunidade de aprender a se manter na máquina da vítima.
 ---
 **[!] ATENÇÃO:** Documentação pessoal de estudos. Uso estritamente educacional em ambiente de laboratório.
